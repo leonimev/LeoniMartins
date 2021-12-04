@@ -1,3 +1,6 @@
+![Presentation2](https://user-images.githubusercontent.com/91094411/144725045-94c13ea9-f0dd-491d-ad07-a7b553132764.jpg)
+
+
 ## Leoni F. Martins
 
 DVM MSc. PhD student - Ruminant nutrition
@@ -42,11 +45,11 @@ Social media:
 
 ### PEER REVIEWED ARTICLES
 
-- MALACCO, V. M. R.; MARTINS, L. F.; MACIEL, I. C. F.; LAGE, C. F. A.; COELHO, R. B.; COSTA, A. L. B. S. A.; MOURA, A. M.; SATURNINO, H. M.; COELHO, S. G.; REIS, R. B. Effects of partial replacement of solvent-extracted soybean meal by amino resin-treated soybean meal in the concentrate supplement of high producing grazing dairy cows. Livestock Science., v.254. [doi:](https://doi.org/10.1016/j.livsci.2021.104762)
+- MALACCO, V. M. R.; MARTINS, L. F.; MACIEL, I. C. F.; LAGE, C. F. A.; COELHO, R. B.; COSTA, A. L. B. S. A.; MOURA, A. M.; SATURNINO, H. M.; COELHO, S. G.; REIS, R. B. Effects of partial replacement of solvent-extracted soybean meal by amino resin-treated soybean meal in the concentrate supplement of high producing grazing dairy cows. Livestock Science., v.254. [Livestock Sciences](https://doi.org/10.1016/j.livsci.2021.104762)
 
-- MARTINS, L. F.; MENTA, P. R.; FERNANDES, L.; MACHADO, V. S.; NEVES, R. C. Prolonged, low-grade inflammation in the first week of lactation: associations with mineral, protein, and energy balance markers, and milk yield in a clinically healthy Jersey cow cohort. Journal of Dairy Science., v.104, p. 6113 – 6123, 2021. [doi:](https://doi.org/10.3168/jds.2020-19538)
+- MARTINS, L. F.; MENTA, P. R.; FERNANDES, L.; MACHADO, V. S.; NEVES, R. C. Prolonged, low-grade inflammation in the first week of lactation: associations with mineral, protein, and energy balance markers, and milk yield in a clinically healthy Jersey cow cohort. Journal of Dairy Science., v.104, p. 6113 – 6123, 2021. [Journal of Dairy Science](https://doi.org/10.3168/jds.2020-19538)
 
-- MARTINS, L. F.; PRADO, D. M. B.; GOMES, G. R.; TEIXEIRA A. M.; OLIVEIRA, L. N.; GONÇALVES, L. C.; OLIVEIRA, F. S. Nutritional value of elephant grass harvested at different regrowth ages. Arquivo Brasileiro de Medicina Veterinária e Zootecnia., v.72, p.1881 – 1890, 2020. [doi:](http://dx.doi.org/10.1590/1678-4162-11329)
+- MARTINS, L. F.; PRADO, D. M. B.; GOMES, G. R.; TEIXEIRA A. M.; OLIVEIRA, L. N.; GONÇALVES, L. C.; OLIVEIRA, F. S. Nutritional value of elephant grass harvested at different regrowth ages. Arquivo Brasileiro de Medicina Veterinária e Zootecnia., v.72, p.1881 – 1890, 2020. [ABMVZ](http://dx.doi.org/10.1590/1678-4162-11329)
 
 
 ## Coming soon
@@ -56,9 +59,3 @@ Articles
 Courses
 
 Translating science into practice
-
-
-
-![Image]()
-
-
