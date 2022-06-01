@@ -34,7 +34,13 @@ leonimartins@psu.edu
 
 [ORCID](https://orcid.org/0000-0003-3075-448X)
 
-[Curriculum vitae]
+
+### Curriculum vitae and resume
+
+[Curriculum vitae](https://github.com/leonimev/LeoniMartins/files/8818803/Leoni.Curriculum.Vitae.-.updated.pdf)
+
+[Resume](https://github.com/leonimev/LeoniMartins/files/8818807/Leoni.resume.-.updated.docx)
+
 
 
 ## Education
@@ -53,7 +59,7 @@ leonimartins@psu.edu
     
 - 2018-19: M.Sc. in Veterinary Sciences, Federal University of Uberlandia, School of Veterinary Medicine, Uberlandia, MG, Brazil
 
-    - Thesis: Characterization of rearing and evaluation of the impacts of management over dairy calves’ passive immunity transfer and health.
+    - Thesis: Characterization of rearing and evaluation of the impacts of management on dairy calves’ passive immunity transfer and health.
     
 - 2012-17: Bachelor’s in Veterinary Medicine, Federal University of Uberlandia, School of Veterinary Medicine, Uberlandia, MG, Brazil
 
