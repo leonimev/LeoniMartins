@@ -35,7 +35,7 @@ leonimartins@psu.edu
 [ORCID](https://orcid.org/0000-0003-3075-448X)
 
 
-### Curriculum vitae and resume
+#### Curriculum vitae and resume
 
 [Curriculum vitae](https://github.com/leonimev/LeoniMartins/files/8818803/Leoni.Curriculum.Vitae.-.updated.pdf)
 
