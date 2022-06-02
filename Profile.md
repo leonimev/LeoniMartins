@@ -41,7 +41,8 @@ leonimartins@psu.edu
 
 [Curriculum vitae](https://github.com/leonimev/LeoniMartins/files/8818803/Leoni.Curriculum.Vitae.-.updated.pdf)
 
-[Resume](https://github.com/leonimev/LeoniMartins/files/8818807/Leoni.resume.-.updated.docx)
+[Resume](https://github.com/leonimev/LeoniMartins/files/8819712/Leoni.resume.-.updated.pdf)
+
 
 
 
