@@ -1,5 +1,4 @@
-![Business card](https://user-images.githubusercontent.com/91094411/171526177-65141f73-12cd-4964-a74a-2fcdb12082e3.jpg)
-
+![Business card](https://user-images.githubusercontent.com/91094411/171632653-aa739273-0922-46f1-92a1-9c9fbbb6aaf1.jpg)
 
 
 
