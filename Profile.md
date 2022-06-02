@@ -5,7 +5,7 @@
 
 # Leoni F. Martins
 
-DVM MSc. PhD student
+DVM, MSc., PhD student
 
 - Ruminant nutrition
 - Dairy science
