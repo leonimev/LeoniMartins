@@ -27,6 +27,7 @@ College of Agricultural Sciences, Department of Animal Sciences
 333 Agricultural Sciences Building, University Park, PA 16802 US
 
 leonimartins@psu.edu
+leoniferreiramv@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/leoni-martins-5a9aa1150/)
 
