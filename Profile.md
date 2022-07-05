@@ -81,9 +81,12 @@ leonimartins@psu.edu / leoniferreiramv@gmail.com
 - **Martins, L. F.,** D. M. B. Prado, G. R. Gomes, A. M. Teixeira, L. N. Oliveira, L. C. Gonçalves, and F. S Oliveira. 2020. Nutritional value of elephant grass harvested at different regrowth ages. Arquivo Brasileiro de Medicina Veterinária e Zootecnia., 72:1881–1890. [ABMVZ](http://dx.doi.org/10.1590/1678-4162-11329).
 
 
+## Articles
+
+[Precision Feeding in Dairy Cows - PSU extension](https://extension.psu.edu/precision-feeding-in-dairy-cows-increasing-efficiency-and-profitability)
+
 ## Coming soon
 
-Articles
 
 Courses
 
