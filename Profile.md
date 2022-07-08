@@ -83,7 +83,7 @@ leonimartins@psu.edu / leoniferreiramv@gmail.com
 
 ## Extension Articles
 
-[Precision Feeding in Dairy Cows - PSU extension](https://extension.psu.edu/precision-feeding-in-dairy-cows-increasing-efficiency-and-profitability)
+Precision Feeding in Dairy Cows: Increasing Efficiency and Profitability [PSU extension](https://extension.psu.edu/precision-feeding-in-dairy-cows-increasing-efficiency-and-profitability)
 
 ## Coming soon
 
