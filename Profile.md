@@ -83,7 +83,7 @@ leonimartins@psu.edu / leoniferreiramv@gmail.com
 
 ## Extension Articles
 
-Martins, L. F., and A. N. Hristov. 2022. Precision Feeding in Dairy Cows: Increasing Efficiency and Profitability. [PSU extension](https://extension.psu.edu/precision-feeding-in-dairy-cows-increasing-efficiency-and-profitability)
+- Martins, L. F., and A. N. Hristov. 2022. Precision Feeding in Dairy Cows: Increasing Efficiency and Profitability. [PSU extension](https://extension.psu.edu/precision-feeding-in-dairy-cows-increasing-efficiency-and-profitability)
 
 ## Coming soon
 
