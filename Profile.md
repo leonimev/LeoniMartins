@@ -70,7 +70,7 @@ leonimartins@psu.edu / leoniferreiramv@gmail.com
 
 ### PEER REVIEWED ARTICLES
 
-- **Martins, L. F.,** J. Oh, M. Harper, A. Melgar, S. E. Räisänen, X. Chen, K. Nedelkov, T. P. Karnezos, and A. N. Hristov. 2022. Effects of an exogenous enzyme preparation extracted from a mixed culture of _Aspergillus spp._ on lactational performance, metabolism, and digestibility in primiparous and multiparous cows. J. Dairy Sci. Accepted on May 04, 2022.
+- **Martins, L. F.,** J. Oh, M. Harper, A. Melgar, S. E. Räisänen, X. Chen, K. Nedelkov, T. P. Karnezos, and A. N. Hristov. 2022. Effects of an exogenous enzyme preparation extracted from a mixed culture of _Aspergillus spp._ on lactational performance, metabolism, and digestibility in primiparous and multiparous cows. J. Dairy Sci. 105 [Jorunal of Dairy Science](https://doi.org/10.3168/jds.2022-21990).
 
 - Silvestre, T., M. Fetter, S. E. Räisänen, C. F. A. Lage, H. Stefenoni, A. Melgar, S. F. Cueva, D. E. Wasson, **L. F. Martins,** T. P., Karnezos, and A. N. Hristov. 2022. Performance of dairy cows fed normal- or reduced-starch diets supplemented with an exogenous enzyme preparation. J. Dairy Sci. 105:2288–2300. [Journal of Dairy Science](https://doi.org/10.3168/jds.2021-21264).
 
