@@ -38,7 +38,7 @@ leonimartins@psu.edu / leoniferreiramv@gmail.com
 
 #### Curriculum vitae and resume
 
-[Curriculum vitae](https://github.com/leonimev/LeoniMartins/files/9612112/Leoni.Curriculum.Vitae.-.updated.pdf)
+[Curriculum vitae](https://github.com/leonimev/LeoniMartins/files/9612205/Leoni.Curriculum.Vitae.-.updated.pdf)
 
 [Resume](https://github.com/leonimev/LeoniMartins/files/8819712/Leoni.resume.-.updated.pdf)
 
