@@ -74,7 +74,7 @@ leonimartins@psu.edu / leoniferreiramv@gmail.com
 
 - Silvestre, T., S. E. Räisänen, S. F. Cueva, D. E. Wasson, C. F. A. Lage, **L. F. Martins,** E. Wall, and A. N. Hristov. 2022. Effects of a combination of Capsicum oleoresin and clove essential oil on metabolic status, lactational performance, and enteric methane emissions in dairy cows. J. Dairy Sci. Accepted on July 27, 2022. 
 
-- **Martins, L. F.,** D. E. Wasson, and A. N. Hristov. 2022. Feeding dairy cows for improved metabolism and health. Anim. Front. 12(5):29-36.[Animal Frontiers](https://doi.org/10.1093/af/vfac059).
+- **Martins, L. F.,** D. E. Wasson, and A. N. Hristov. 2022. Feeding dairy cows for improved metabolism and health. Anim. Front. 12(5):29-36. [Animal Frontiers](https://doi.org/10.1093/af/vfac059).
 
 - **Martins, L. F.,** J. Oh, M. Harper, A. Melgar, S. E. Räisänen, X. Chen, K. Nedelkov, T. P. Karnezos, and A. N. Hristov. 2022. Effects of an exogenous enzyme preparation extracted from a mixed culture of _Aspergillus spp._ on lactational performance, metabolism, and digestibility in primiparous and multiparous cows. J. Dairy Sci. 105 [Journal of Dairy Science](https://doi.org/10.3168/jds.2022-21990).
 
