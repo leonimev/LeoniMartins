@@ -38,7 +38,7 @@ leonimartins@psu.edu / leoniferreiramv@gmail.com
 
 #### Curriculum vitae and resume
 
-[Curriculum vitae](https://github.com/leonimev/LeoniMartins/files/9612205/Leoni.Curriculum.Vitae.-.updated.pdf)
+[Curriculum vitae](https://github.com/leonimev/LeoniMartins/files/9793424/Leoni.Curriculum.Vitae.-.updated.pdf)
 
 [Resume](https://github.com/leonimev/LeoniMartins/files/8819712/Leoni.resume.-.updated.pdf)
 
@@ -70,7 +70,11 @@ leonimartins@psu.edu / leoniferreiramv@gmail.com
 
 ### PEER REVIEWED ARTICLES
 
-- **Martins, L. F.,** D. E. Wasson, and A. N. Hristov. 2022. Feeding dairy cows for improved metabolism and health. Animal Frontiers. Accepted on Jul 20, 2022.
+- **Martins, L. F.,** J. Oh, A. Melgar, M. Harper, E. W. Wall, and A. N. Hristov. 2023. Effects of phytonutrients and yeast culture supplementation on lactational performance and nutrient use efficiency in dairy cows. J. Dairy Sci. Accepted on Oct 05, 2022.
+
+- Silvestre, T., S. E. Räisänen, S. F. Cueva, D. E. Wasson, C. F. A. Lage, **L. F. Martins,** E. Wall, and A. N. Hristov. 2022. Effects of a combination of Capsicum oleoresin and clove essential oil on metabolic status, lactational performance, and enteric methane emissions in dairy cows. J. Dairy Sci. Accepted on July 27, 2022. 
+
+- **Martins, L. F.,** D. E. Wasson, and A. N. Hristov. 2022. Feeding dairy cows for improved metabolism and health. Anim. Front. 12(5):29-36.[Animal Frontiers](https://doi.org/10.1093/af/vfac059).
 
 - **Martins, L. F.,** J. Oh, M. Harper, A. Melgar, S. E. Räisänen, X. Chen, K. Nedelkov, T. P. Karnezos, and A. N. Hristov. 2022. Effects of an exogenous enzyme preparation extracted from a mixed culture of _Aspergillus spp._ on lactational performance, metabolism, and digestibility in primiparous and multiparous cows. J. Dairy Sci. 105 [Journal of Dairy Science](https://doi.org/10.3168/jds.2022-21990).
 
