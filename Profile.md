@@ -80,7 +80,7 @@ leonimartins@psu.edu / leoniferreiramv@gmail.com
 
 - Silvestre, T., M. Fetter, S. E. Räisänen, C. F. A. Lage, H. Stefenoni, A. Melgar, S. F. Cueva, D. E. Wasson, **L. F. Martins,** T. P., Karnezos, and A. N. Hristov. 2022. Performance of dairy cows fed normal- or reduced-starch diets supplemented with an exogenous enzyme preparation. J. Dairy Sci. 105:2288–2300. [Journal of Dairy Science](https://doi.org/10.3168/jds.2021-21264).
 
-- Malacco, V. M. R., **L. F. Martins,** I. C. F.  Maciel, C. F. A. Lage, R. R. B. Coelho, A. L. B. S. A. Costa; A. M. Moura, H. M. Saturnino, S. G. Coelho, R. B. Reis. 2021. Effects of partial replacement of solvent-extracted soybean meal by amino resin-treated soybean meal in the concentrate supplement of high producing grazing dairy cows. Livestock Science., v.254. 104762. [Livestock Sciences](https://doi.org/10.1016/j.livsci.2021.104762).
+- Malacco, V. M. R., **L. F. Martins,** I. C. F.  Maciel, C. F. A. Lage, R. R. B. Coelho, A. L. B. S. A. Costa; A. M. Moura, H. M. Saturnino, S. G. Coelho, R. B. Reis. 2021. Effects of partial replacement of solvent-extracted soybean meal by amino resin-treated soybean meal in the concentrate supplement of high producing grazing dairy cows. Livestock Science., v.254. 104762. [Livestock Science](https://doi.org/10.1016/j.livsci.2021.104762).
 
 - **Martins, L. F.,** P. R. Menta, L. Fernandes, V. S. Machado, R. C. Neves. 2021. Prolonged, low-grade inflammation in the first week of lactation: associations with mineral, protein, and energy balance markers, and milk yield in a clinically healthy Jersey cow cohort. J. Dairy Sci. 104:6113–6123, 2021. [Journal of Dairy Science](https://doi.org/10.3168/jds.2020-19538).
 
