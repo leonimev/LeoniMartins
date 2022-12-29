@@ -71,7 +71,7 @@ leonimartins@psu.edu / leoniferreiramv@gmail.com
 
 ### PEER REVIEWED ARTICLES
 
-- **Martins, L. F.,** J. Oh, A. Melgar, M. Harper, E. W. Wall, and A. N. Hristov. 2023. Effects of phytonutrients and yeast culture supplementation on lactational performance and nutrient use efficiency in dairy cows. J. Dairy Sci. Accepted on Oct 05, 2022.
+- **Martins, L. F.,** J. Oh, A. Melgar, M. Harper, E. W. Wall, and A. N. Hristov. 2023. Effects of phytonutrients and yeast culture supplementation on lactational performance and nutrient use efficiency in dairy cows. J. Dairy Sci. 106:TBD. [Journal of Dairy Science](https://doi.org/10.3168/jds.2022-22482)
 
 - Silvestre, T., S. E. Räisänen, S. F. Cueva, D. E. Wasson, C. F. A. Lage, **L. F. Martins,** E. Wall, and A. N. Hristov. 2022. Effects of a combination of Capsicum oleoresin and clove essential oil on metabolic status, lactational performance, and enteric methane emissions in dairy cows. J. Dairy Sci. 105:1-13. [Journal of Dairy Science](https://doi.org/10.3168/jds.2022-22203). 
 
