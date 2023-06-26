@@ -39,10 +39,9 @@ leonimartins@psu.edu / leoniferreiramv@gmail.com
 
 #### Curriculum vitae and resume
 
-[Curriculum vitae](https://github.com/leonimev/LeoniMartins/files/9793424/Leoni.Curriculum.Vitae.-.updated.pdf)
+[Curriculum vitae](https://github.com/leonimev/LeoniMartins/files/11861564/Leoni.Curriculum.Vitae.-.updated.pdf)
 
-[Resume](https://github.com/leonimev/LeoniMartins/files/8819712/Leoni.resume.-.updated.pdf)
-
+[Resume](https://github.com/leonimev/LeoniMartins/files/11861565/Leoni.resume.-.updated.pdf)
 
 
 
@@ -71,7 +70,9 @@ leonimartins@psu.edu / leoniferreiramv@gmail.com
 
 ### PEER REVIEWED ARTICLES
 
-- **Martins, L. F.,** J. Oh, A. Melgar, M. Harper, E. W. Wall, and A. N. Hristov. 2023. Effects of phytonutrients and yeast culture supplementation on lactational performance and nutrient use efficiency in dairy cows. J. Dairy Sci. 106:TBD. [Journal of Dairy Science](https://doi.org/10.3168/jds.2022-22482).
+- Silvestre, T., **L. F. Martins,** S. F. Cueva, D. E. Wasson, N. Stepanchenko, S. E. Räisänen, S. Somai, M. L. Hile, and A. N. Hristov. 2023. Lactational performance, rumen fermentation, nutrient use efficiency, enteric methane emissions and manure greenhouse gas emitting potential in dairy cows fed a blend of essential oils. J. Dairy Sci. TBD. Accepted on May 9, 2023.
+
+- **Martins, L. F.,** J. Oh, A. Melgar, M. Harper, E. W. Wall, and A. N. Hristov. 2023. Effects of phytonutrients and yeast culture supplementation on lactational performance and nutrient use efficiency in dairy cows. J. Dairy Sci. 106:1746–1756. [Journal of Dairy Science](https://doi.org/10.3168/jds.2022-22482).
 
 - Silvestre, T., S. E. Räisänen, S. F. Cueva, D. E. Wasson, C. F. A. Lage, **L. F. Martins,** E. Wall, and A. N. Hristov. 2022. Effects of a combination of Capsicum oleoresin and clove essential oil on metabolic status, lactational performance, and enteric methane emissions in dairy cows. J. Dairy Sci. 105:9610-9622. [Journal of Dairy Science](https://doi.org/10.3168/jds.2022-22203). 
 
