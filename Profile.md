@@ -70,7 +70,11 @@ leonimartins@psu.edu / leoniferreiramv@gmail.com
 
 ### PEER REVIEWED ARTICLES
 
-- Silvestre, T., **L. F. Martins,** S. F. Cueva, D. E. Wasson, N. Stepanchenko, S. E. Räisänen, S. Somai, M. L. Hile, and A. N. Hristov. 2023. Lactational performance, rumen fermentation, nutrient use efficiency, enteric methane emissions and manure greenhouse gas emitting potential in dairy cows fed a blend of essential oils. J. Dairy Sci. TBD. Accepted on May 9, 2023.
+- **Martins, L. F.,** S. F. Cueva, C. F. A. Lage, M. Ramin, T. Silvestre, J. Tricarico, and A. N. Hristov. 2023. A meta-analysis of methane mitigation potential of feed additives evaluated in vitro. J. Dairy Sci. TBD. Accepted on August 16, 2023.
+
+- **Martins, L. F.,** S. F. Cueva, T. Silvestre, N. Stepanchenko, D. E. Wasson, E. Wall, and A. N. Hristov. 2023. Lactational performance, enteric methane emission, and nutrient utilization of dairy cows supplemented with botanicals. J. Dairy Sci. TBD. Accepted on August 3, 2023.
+
+- Silvestre, T., **L. F. Martins,** S. F. Cueva, D. E. Wasson, N. Stepanchenko, S. E. Räisänen, S. Somai, M. L. Hile, and A. N. Hristov. 2023. Lactational performance, rumen fermentation, nutrient use efficiency, enteric methane emissions and manure greenhouse gas-emitting potential in dairy cows fed a blend of essential oils. J. Dairy Sci. TBD. [Journal of Dairy Science](https://doi.org/10.3168/jds.2022-23181).
 
 - **Martins, L. F.,** J. Oh, A. Melgar, M. Harper, E. W. Wall, and A. N. Hristov. 2023. Effects of phytonutrients and yeast culture supplementation on lactational performance and nutrient use efficiency in dairy cows. J. Dairy Sci. 106:1746–1756. [Journal of Dairy Science](https://doi.org/10.3168/jds.2022-22482).
 
